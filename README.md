@@ -6,7 +6,7 @@ Poland · <arechowska@gmail.com>
 
 ## About
 
-Documentation lead and knowledge architect with 18 years in banking software documentation for CIS markets. I build documentation systems that scale — architecture, pipelines and processes — rather than write the docs myself. With a degree in linguistics and computational linguistics, I bring systems thinking to knowledge architecture, process design, and cross-team alignment.
+Documentation lead and knowledge architect with 18 years in banking software documentation for CIS markets. I build documentation systems that scale — architecture, pipelines and processes. With a degree in linguistics and computational linguistics, I bring systems thinking to knowledge architecture, process design, and cross-team alignment.
 
 ## What I Do
 
@@ -27,7 +27,6 @@ Documentation lead and knowledge architect with 18 years in banking software doc
 
 | Project | Description | Stack | Status |
 | --- | --- | --- | --- |
-| AI Help | RAG assistant answering questions on banking software documentation in Turkmen, with source links and per-bank access. Product owner: test methodology, 10 evaluation runs on 160+ questions, glossary and translation workflow; 93% acceptable answers, zero cross-bank leaks. Internal project | RAG, LLM evaluation | Hypothesis approved |
 | [Formatta](https://arechowska.github.io/formatta/) | Assembling, checking and exporting structured documents from your own sources — AI only where meaning is needed. Case study; code private | Python, FastAPI, HTMX, local LLMs | MVP |
 | [IB Docs — Zensical](https://github.com/arechowska/ib-docs-mkdocs/tree/main) | Internet banking documentation MVP with auto-deploy and white-label support | Zensical, MkDocs, GitLab CI/CD, GitLab Pages | Live |
 | [IB Docs — Antora](#) | Scaled docs with versioning per release and per bank client | AsciiDoc, Antora | Coming soon |
@@ -51,4 +50,4 @@ Leading a docs-as-code transition across product teams at a banking software ven
 (CIS markets) — moving from Word/CHM to MD/Zensical (Sphinx) & AsciiDoc/Antora with CI/CD automation,
 multilingual support, and context-sensitive help via URL.
 
-Moving into AI for knowledge and documentation: own **AI Help**, a RAG assistant that answers on product documentation in the user's language — from requirements and evaluation methodology to approval by management.
+Moving into AI for knowledge and documentation: RAG assistants over product documentation, LLM answer evaluation and AI workflows for documentation teams.
