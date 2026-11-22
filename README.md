@@ -40,7 +40,7 @@ Documentation lead and knowledge architect with 18 years in banking software doc
 **CI/CD:** GitLab CI/CD · GitLab Pages · GitHub Pages<br>
 **Knowledge Management:** Confluence · Obsidian  
 **API:** REST · Swagger/OpenAPI  
-**Tooling:** VS Code · Pandoc · Grafana
+**Tooling:** VS Code · Pandoc · Grafana  
 **AI:** Claude · Claude Code · Codex
 
 ## Currently
