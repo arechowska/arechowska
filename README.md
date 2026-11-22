@@ -13,13 +13,13 @@ Documentation lead and knowledge architect with 18 years in banking software doc
 - **DocOps** — documentation pipelines: CI/CD builds of site and PDF, automated style and link checks,
   project templates and AI-agent skills for routine docs operations
 - **Documentation architecture** for enterprise banking systems
-- **Docs-as-code transition** — leading migration from Word/CHM to Markdown/Zensical (MkDocs)
+- **Docs-as-code transition** — leading migration from Word/CHM to Markdown/Zensical (Sphinx Myst)
   and AsciiDoc/Antora across product teams
 - **Cross-team knowledge management** — requirements gathering, stakeholder alignment,
   documentation standards
 - **API documentation** — REST API style guides and endpoint documentation
 - **Team leadership** — managing a team of 6 technical writers, Kanban implementation,
-  onboarding redesign, performance management
+  onboarding redesign, performance management (Grafana dashboards)
 - **AI-assisted documentation** — integrating LLM tools into documentation workflows
 
 ## Selected Projects
@@ -40,7 +40,7 @@ Documentation lead and knowledge architect with 18 years in banking software doc
 **CI/CD:** GitLab CI/CD · GitLab Pages · GitHub Pages<br>
 **Knowledge Management:** Confluence · Obsidian  
 **API:** REST · Swagger/OpenAPI  
-**Tooling:** VS Code · Pandoc · oxipng  
+**Tooling:** VS Code · Pandoc · Grafana
 **AI:** Claude · Claude Code · Codex
 
 ## Currently
