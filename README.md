@@ -1,6 +1,6 @@
 # Ina Arechowska
 
-**Senior Technical Writer | Knowledge Architect | Docs-as-Code**
+**Documentation Lead | DocOps | Knowledge Architect**
 
 Poland · <arechowska@gmail.com>
 
@@ -10,6 +10,8 @@ Technical writer and documentation architect with 18 years in banking software d
 
 ## What I Do
 
+- **DocOps** — documentation pipelines: CI/CD builds of site and PDF, automated style and link checks,
+  project templates and AI-agent skills for routine docs operations
 - **Documentation architecture** for enterprise banking systems
 - **Docs-as-code transition** — leading migration from Word/CHM to Markdown/Zensical (MkDocs)
   and AsciiDoc/Antora across product teams
