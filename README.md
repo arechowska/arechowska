@@ -6,7 +6,7 @@ Poland · <arechowska@gmail.com>
 
 ## About
 
-Technical writer and documentation architect with 18 years in banking software documentation for CIS markets. I specialize in building documentation systems that scale — not just writing docs. With a degree in linguistics and computational linguistics, I bring systems thinking to knowledge architecture, process design, and cross-team alignment.
+Documentation lead and knowledge architect with 18 years in banking software documentation for CIS markets. I build documentation systems that scale — architecture, pipelines and processes — rather than write the docs myself. With a degree in linguistics and computational linguistics, I bring systems thinking to knowledge architecture, process design, and cross-team alignment.
 
 ## What I Do
 
