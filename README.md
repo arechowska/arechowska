@@ -35,7 +35,7 @@ Documentation lead and knowledge architect with 18 years in banking software doc
 
 ## Tools & Stack
 
-**Documentation:** AsciiDoc · Markdown · MkDocs/Zensical · Antora  
+**Documentation:** AsciiDoc · Markdown · Sphinx (Myst) · MkDocs/Zensical · Antora  
 **Version Control:** Git · GitLab · GitHub  
 **CI/CD:** GitLab CI/CD · GitLab Pages · GitHub Pages<br>
 **Knowledge Management:** Confluence · Obsidian  
@@ -46,7 +46,7 @@ Documentation lead and knowledge architect with 18 years in banking software doc
 ## Currently
 
 Leading a docs-as-code transition across product teams at a banking software vendor
-(CIS markets) — moving from Word/CHM to MD/Zensical & AsciiDoc/Antora with CI/CD automation,
+(CIS markets) — moving from Word/CHM to MD/Zensical (Sphinx) & AsciiDoc/Antora with CI/CD automation,
 multilingual support, and context-sensitive help via URL.
 
 Developing **AI Help**, an AI assistant that helps users work with documentation in their
