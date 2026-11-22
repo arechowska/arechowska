@@ -1,6 +1,6 @@
 # Ina Arechowska
 
-**Documentation Lead | DocOps | Knowledge Architect**
+**Documentation Lead | DocOps | AI Knowledge Architect**
 
 Poland · <arechowska@gmail.com>
 
@@ -20,12 +20,14 @@ Documentation lead and knowledge architect with 18 years in banking software doc
 - **API documentation** — REST API style guides and endpoint documentation
 - **Team leadership** — managing a team of 6 technical writers, Kanban implementation,
   onboarding redesign, performance management (Grafana dashboards)
-- **AI-assisted documentation** — integrating LLM tools into documentation workflows
+- **AI for documentation** — RAG assistants over product documentation, LLM answer evaluation,
+  machine translation with glossaries, AI-agent workflows for documentation teams
 
 ## Selected Projects
 
 | Project | Description | Stack | Status |
 | --- | --- | --- | --- |
+| AI Help | RAG assistant answering questions on banking software documentation in Turkmen, with source links and per-bank access. Product owner: test methodology, 10 evaluation runs on 160+ questions, glossary and translation workflow; 93% acceptable answers, zero cross-bank leaks. Internal project | RAG, LLM evaluation | Hypothesis approved |
 | [Formatta](https://arechowska.github.io/formatta/) | Assembling, checking and exporting structured documents from your own sources — AI only where meaning is needed. Case study; code private | Python, FastAPI, HTMX, local LLMs | MVP |
 | [IB Docs — Zensical](https://github.com/arechowska/ib-docs-mkdocs/tree/main) | Internet banking documentation MVP with auto-deploy and white-label support | Zensical, MkDocs, GitLab CI/CD, GitLab Pages | Live |
 | [IB Docs — Antora](#) | Scaled docs with versioning per release and per bank client | AsciiDoc, Antora | Coming soon |
@@ -49,5 +51,4 @@ Leading a docs-as-code transition across product teams at a banking software ven
 (CIS markets) — moving from Word/CHM to MD/Zensical (Sphinx) & AsciiDoc/Antora with CI/CD automation,
 multilingual support, and context-sensitive help via URL.
 
-Developing **AI Help**, an AI assistant that helps users work with documentation in their
-preferred language.
+Moving into AI for knowledge and documentation: own **AI Help**, a RAG assistant that answers on product documentation in the user's language — from requirements and evaluation methodology to approval by management.
