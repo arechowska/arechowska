@@ -24,6 +24,7 @@ Technical writer and documentation architect with 18 years in banking software d
 
 | Project | Description | Stack | Status |
 | --- | --- | --- | --- |
+| [Formatta](https://arechowska.github.io/formatta/) | Assembling, checking and exporting structured documents from your own sources — AI only where meaning is needed. Case study; code private | Python, FastAPI, HTMX, local LLMs | MVP |
 | [IB Docs — Zensical](https://github.com/arechowska/ib-docs-mkdocs/tree/main) | Internet banking documentation MVP with auto-deploy and white-label support | Zensical, MkDocs, GitLab CI/CD, GitLab Pages | Live |
 | [IB Docs — Antora](#) | Scaled docs with versioning per release and per bank client | AsciiDoc, Antora | Coming soon |
 | [API Style Guide](#) | REST API documentation standards for banking system | Markdown, OpenAPI | In progress |
