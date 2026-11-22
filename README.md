@@ -27,7 +27,7 @@ Documentation lead and knowledge architect with 18 years in banking software doc
 
 | Project | Description | Stack | Status |
 | --- | --- | --- | --- |
-| AI Help | RAG assistant answering questions on product documentation in low-resource languages. Product owner: requirements, test methodology and automated evaluation runs, leading a cross-functional team (architect, developer), working with the translator and the customer, project defence. Internal project | RAG, LLM evaluation | MVP |
+| [AI Help](https://arechowska.github.io/ai-help-case/) | RAG assistant answering questions on product documentation in low-resource languages. Product owner: requirements, test methodology and automated evaluation runs, leading a cross-functional team (architect, developer), working with the translator and the customer, project defence. Internal project | RAG, LLM evaluation | MVP |
 | [Formatta](https://arechowska.github.io/formatta/) | Assembling, checking and exporting structured documents from your own sources — AI only where meaning is needed. Case study; code private | Python, FastAPI, HTMX, local LLMs | MVP |
 | [Docs-as-Code at scale](https://arechowska.github.io/docs-as-code-case/) | Case study: moving a large multi-client documentation base to one versioned source — shared content and client layers, CI checks, site + PDF, in-app help. Comparison of three stacks on real docs | Markdown, Zensical, Sphinx (MyST), Antora, GitLab CI | Pilot |
 | [IB Docs — Zensical](https://github.com/arechowska/ib-docs-zensical) | Internet banking documentation MVP with auto-deploy and white-label support | Zensical, MkDocs, GitLab CI/CD, GitLab Pages | Live |
