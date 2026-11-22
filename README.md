@@ -13,7 +13,7 @@ Documentation lead and knowledge architect with 18 years in banking software doc
 - **DocOps** — documentation pipelines: CI/CD builds of site and PDF, automated style and link checks,
   project templates and AI-agent skills for routine docs operations
 - **Documentation architecture** for enterprise banking systems
-- **Docs-as-code transition** — leading migration from Word/CHM to Markdown/Zensical (Sphinx Myst)
+- **Docs-as-code transition** — leading migration from Word/CHM to Markdown/Zensical (Sphinx MyST)
   and AsciiDoc/Antora across product teams
 - **Cross-team knowledge management** — requirements gathering, stakeholder alignment,
   documentation standards
@@ -29,15 +29,15 @@ Documentation lead and knowledge architect with 18 years in banking software doc
 | --- | --- | --- | --- |
 | AI Help | RAG assistant answering questions on product documentation in low-resource languages. Product owner: requirements, test methodology and automated evaluation runs, leading a cross-functional team (architect, developer), working with the translator and the customer, project defence. Internal project | RAG, LLM evaluation | MVP |
 | [Formatta](https://arechowska.github.io/formatta/) | Assembling, checking and exporting structured documents from your own sources — AI only where meaning is needed. Case study; code private | Python, FastAPI, HTMX, local LLMs | MVP |
-| [IB Docs — Zensical](https://github.com/arechowska/ib-docs-mkdocs/tree/main) | Internet banking documentation MVP with auto-deploy and white-label support | Zensical, MkDocs, GitLab CI/CD, GitLab Pages | Live |
-| [IB Docs — Antora](#) | Scaled docs with versioning per release and per bank client | AsciiDoc, Antora | Coming soon |
-| [API Style Guide](#) | REST API documentation standards for banking system | Markdown, OpenAPI | In progress |
+| [IB Docs — Zensical](https://github.com/arechowska/ib-docs-zensical) | Internet banking documentation MVP with auto-deploy and white-label support | Zensical, MkDocs, GitLab CI/CD, GitLab Pages | Live |
+| IB Docs — Antora | Scaled docs with versioning per release and per bank client | AsciiDoc, Antora | Coming soon |
+| API Style Guide | REST API documentation standards for banking system | Markdown, OpenAPI | In progress |
 | [Docs Toolkit](https://github.com/arechowska/docs-toolkit) | Markdown linter/autofixer, pre-commit hook, VS Code snippets, screenshot renaming and Selenium-based screenshot automation for docs-as-code workflows | Python, Selenium | Done |
 | [Zensical to PDF](https://github.com/arechowska/zensical-to-pdf) | PDF export for Zensical/MkDocs docs — cover page, TOC, admonitions, CI/CD ready | Python, Pandoc, XeLaTeX | Done |
 
 ## Tools & Stack
 
-**Documentation:** AsciiDoc · Markdown · Sphinx (Myst) · MkDocs/Zensical · Antora  
+**Documentation:** AsciiDoc · Markdown · Sphinx (MyST) · MkDocs/Zensical · Antora  
 **Version Control:** Git · GitLab · GitHub  
 **CI/CD:** GitLab CI/CD · GitLab Pages · GitHub Pages<br>
 **Knowledge Management:** Confluence · Obsidian  
