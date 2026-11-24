@@ -2,7 +2,7 @@
 
 **Documentation Lead | DocOps | AI Knowledge Architect**
 
-Poland · <arechowska@gmail.com>
+Poland · [arechowska.github.io](https://arechowska.github.io) · [LinkedIn](https://www.linkedin.com/in/arechowska/) · <arechowska@gmail.com>
 
 ## About
 
